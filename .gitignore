@@ -1,2 +1,7 @@
-/.ipynb_checkpoints
-/models
+/models/graph/cmu
+/models/graph/mobilenet_v2_large
+/models/graph/mobilenet_v2_small
+/models/graph/retrained
+/models/*.py
+/models/numpy
+/models/pretrained
